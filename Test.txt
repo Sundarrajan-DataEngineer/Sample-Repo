@@ -1,0 +1,10 @@
+Well Experts!
+
+  Here we're going to learn Data Engineering Concepts!
+
+RoadMap For Data engineer
+
+Linux
+Hadoop
+SQL
+GCP Cloud
